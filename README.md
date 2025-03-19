@@ -1,4 +1,4 @@
-# Mind-palace
+# Mental-palace
   
 Notes and Documentation about tecnhology as a whole and other Ideas.
 
